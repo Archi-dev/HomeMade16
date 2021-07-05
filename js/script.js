@@ -16,7 +16,7 @@ function calcDivision(a, b) {
     let result = a / b
     return alert(result);
 }
-function calcmodulo(a, b) {
+function calcModulo(a, b) {
     let result = a % b
     return alert(result);
 }
@@ -25,4 +25,4 @@ function calcmodulo(a, b) {
 calcMain(calcPow);
 calcMain(calcMultiplay);
 calcMain(calcDivision);
-calcMain(calcmodulo);
+calcMain(calcModulo);
